@@ -1,2 +1,3 @@
 #!/bin/bash
-type d chmod 711 {}\;
+type d chmod 711
+
