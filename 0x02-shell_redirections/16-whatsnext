@@ -1,2 +1,2 @@
 #!/bin/bash
-grep root -A 3  /etc/bin
+grep -A 3 root  /etc/bin
